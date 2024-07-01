@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm ANJAN GUJJAR G V</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjangujjar" alt="anjangujjar" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/anjangujjar](https://github.com/anjangujjar)
 
 <h3 align="left">Connect with me:</h3>
